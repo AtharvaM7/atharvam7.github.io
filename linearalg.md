@@ -4,7 +4,8 @@ Mathematics is not about numbers.
 
 ## Equations In Two Variables
 
-n{align*}
+\[
+\begin{align*}
 2x + 3y &= 7 \\
 4x - 5y &= -2
 \end{align*}
