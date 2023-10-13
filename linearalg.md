@@ -4,10 +4,8 @@ Mathematics is not about numbers.
 
 ## Equations In Two Variables
 
-\[
-\begin{align*}
-2x + 3y &= 7 \\
-4x - 5y &= -2
-\end{align*}
-\]
+1. Consider an eqation $x+2y=4$
+2. This represents a line in the x-y plane.
+3. Consider another equation $3x+4y=5$.
+4. This represents another line in the x-y plane.
 
