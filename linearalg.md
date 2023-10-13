@@ -1,7 +1,5 @@
-Astronomy is not about telescopes. (Ends with double space).  
-Computer Science is not about computers. (Ends with two line breaks). 
-
-
+Astronomy is not about telescopes.  
+Computer Science is not about computers.  
 Mathematics is not about numbers.
 
 ## Equations In Two Variables
