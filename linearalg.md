@@ -4,6 +4,9 @@ Mathematics is not about numbers.
 
 ## Equations In Two Variables
 
-$$ x+2y=4 \\
-3x+4y=5 $$
+n{align*}
+2x + 3y &= 7 \\
+4x - 5y &= -2
+\end{align*}
+\]
 
