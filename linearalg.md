@@ -1,6 +1,4 @@
 ---
-title: Whatever I understoood from Linear Algebra
-layout: post
 mathjax: true
 ---
 Astronomy is not about telescopes.  
