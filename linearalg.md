@@ -1,6 +1,7 @@
 ---
 mathjax: true
 ---
+
 Astronomy is not about telescopes.  
 Computer Science is not about computers.  
 Mathematics is not about numbers.
@@ -17,4 +18,7 @@ These equations can we represented as a matrix multiplication.
 $$ x+2y=4 $$
 $$ 3x+4y=5 $$
 
+## Git testing beyond this
+ 
+1. Commit from vim.
 
