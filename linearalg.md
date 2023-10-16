@@ -22,4 +22,5 @@ $$ 3x+4y=5 $$
  
 1. Commit from vim. That did not work.
 2. Trying to pull (from the terminal) hence this commit from the website.
-
+3. Pull worked. This edit is from pc.
+4. Back to commit from vim.
