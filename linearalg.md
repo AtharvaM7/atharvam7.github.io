@@ -25,3 +25,4 @@ $$ 3x+4y=5 $$
 3. Pull worked. This edit is from pc.
 4. Back to commit from vim.
 5. This edit is to test if i can pull from vim. Hence this commit from the website.
+6. :!git pull worked, but I had to reopen vim for it to reappear. (retry pull)
