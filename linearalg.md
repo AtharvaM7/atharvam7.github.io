@@ -20,5 +20,6 @@ $$ 3x+4y=5 $$
 
 ## Git testing beyond this
  
-1. Commit from vim.
+1. Commit from vim. That did not work.
+2. Trying to pull (from the terminal) hence this commit from the website.
 
