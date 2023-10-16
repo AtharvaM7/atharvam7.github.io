@@ -24,3 +24,4 @@ $$ 3x+4y=5 $$
 2. Trying to pull (from the terminal) hence this commit from the website.
 3. Pull worked. This edit is from pc.
 4. Back to commit from vim.
+5. This edit is to test if i can pull from vim. Hence this commit from the website.
