@@ -1,5 +1,4 @@
 ---
-
 mathjax: true
 ---
 
@@ -28,6 +27,3 @@ $$ 3x+4y=5 $$
 5. This edit is to test if i can pull from vim. Hence this commit from the website.
 6. :!git pull worked, but I had to reopen vim for it to reappear. (retry pull)
 7. This is getting a little messy. But now I am playing with branches. Update this commit in the "Merge_This_To_The_Main_Branch" and then merge it with the main branch.
-
-
-
