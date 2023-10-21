@@ -2,8 +2,8 @@ This file contains the list of web resources, videos, images and more that I fin
 If possible, I will keep this sorted according to topics and subjects.
 
 ## Vim
-1. https://www.youtube.com/watch?app=desktop&v=XA2WjJbmmoM
-How to Do 90% of What Plugins Do (With Just Vim) 
+1.[How to Do 90% of What Plugins Do (With Just Vim)]{https://www.youtube.com/watch?app=desktop&v=XA2WjJbmmoM}
+
 
 2. http://www.viemu.com/vi-vim-cheat-sheet.gif
 Vim Cheat sheet.
